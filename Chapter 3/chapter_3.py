@@ -1,3 +1,5 @@
+bicycles = ['trek', 'cannondale', 'redline']
+print(f"I like {bicycles[1].title()}")
 motorcycles = ['honda', 'yamaha', 'suzuki']
 print(motorcycles)
 motorcycles[2] = "ikuzus"
