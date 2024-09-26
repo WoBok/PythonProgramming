@@ -1,3 +1,4 @@
+## 操作列表
 for magician in magicians:  
 &emsp;print(f"{magician.title()}, that was a great trick!")  
 
